@@ -2,7 +2,7 @@
 # ✨  What could I offer? ✨ 
 
 
-- 2+ years of experience with BI Tools: I make maginc with  **QlikSense** e **PowerBI** (no rabbits out of hats 🎩, only dashboard).
+- **2+ years of experience with BI Tools**: I make magic with  **QlikSense** e **PowerBI** (no rabbits out of hats 🎩, only dashboard).
 - Knowledge of **ETL tools**: as one famous singer once sang, 'I want to find meaning in this data, even if this data doesn't make sense,' but it will.
 - Ability to **communicate directly with clients**: I talk to clients like they're old friends, even if that old friend is explaining something incomprehensible, we'll figure it out.
 - 📈**Requirements gathering**, **project management**, **development**, and **delivery**, complete with **training for the end user**, so they can have fun tweaking everything I’ve spent hours creating.
